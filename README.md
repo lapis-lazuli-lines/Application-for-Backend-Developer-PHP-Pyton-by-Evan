@@ -1,5 +1,3 @@
-# GPS Trip Analysis
-
 Processes shuffled GPS data (device_id, lat, lon, ISO8601 timestamp) from a CSV file. It cleans data, sorts points, splits into trips, calculates stats, and outputs results.
 
 ## Requirements
